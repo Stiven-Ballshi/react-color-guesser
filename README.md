@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 
-This is a fun react challenge made by me. You basically have a div with a color and you have 3 answers . ?
-You have to find the correct answer in order to go to the next challenge. 
+This is a fun react challenge made by me. You basically have a div with a color and you have 3 answers to pick from.
+You have to find the correct answer in order to go to the next question. 
 Also i added a counter to keep track of how many right and wrong answers you have guessed. 
 Fun little games to up my react skills.
 
